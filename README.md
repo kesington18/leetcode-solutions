@@ -22,3 +22,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree | [Code](0226-invert-binary-tree/invert-binary-tree.ts) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array | [Code](0217-contains-duplicate/contains-duplicate.js) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Linked List | [Code](0206-reverse-linked-list/reverse-linked-list.js) |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table | [Code](0205-isomorphic-strings/isomorphic-strings.js) |
