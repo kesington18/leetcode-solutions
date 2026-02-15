@@ -12,3 +12,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | Easy |  | [Code](2634-filter-elements-from-array/filter-elements-from-array.js) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | Easy |  | [Code](2620-counter/counter.js) |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | Array | [Code](0645-set-mismatch/set-mismatch.py) |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Tree | [Code](0543-diameter-of-binary-tree/diameter-of-binary-tree.js) |
