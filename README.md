@@ -17,3 +17,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | Array | [Code](0349-intersection-of-two-arrays/intersection-of-two-arrays.js) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array | [Code](0283-move-zeroes/move-zeroes.js) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Array | [Code](0268-missing-number/missing-number.js) |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Math | [Code](0258-add-digits/add-digits.py) |
