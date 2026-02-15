@@ -20,3 +20,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Math | [Code](0258-add-digits/add-digits.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table | [Code](0242-valid-anagram/valid-anagram.js) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree | [Code](0226-invert-binary-tree/invert-binary-tree.ts) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array | [Code](0217-contains-duplicate/contains-duplicate.js) |
