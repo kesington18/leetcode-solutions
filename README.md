@@ -36,3 +36,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | [Code](0049-group-anagrams/group-anagrams.js) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array | [Code](0035-search-insert-position/search-insert-position.js) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array | [Code](0027-remove-element/remove-element.js) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](0001-two-sum/two-sum.js) |
