@@ -27,3 +27,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack | [Code](0155-min-stack/min-stack.js) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | Stack | [Code](0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.ts) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | Array | [Code](0136-single-number/single-number.py) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree | [Code](0110-balanced-binary-tree/balanced-binary-tree.ts) |
