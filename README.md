@@ -25,3 +25,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table | [Code](0205-isomorphic-strings/isomorphic-strings.js) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array | [Code](0169-majority-element/majority-element.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack | [Code](0155-min-stack/min-stack.js) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | Stack | [Code](0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.ts) |
