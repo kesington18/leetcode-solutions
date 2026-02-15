@@ -24,3 +24,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Linked List | [Code](0206-reverse-linked-list/reverse-linked-list.js) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table | [Code](0205-isomorphic-strings/isomorphic-strings.js) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array | [Code](0169-majority-element/majority-element.py) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack | [Code](0155-min-stack/min-stack.js) |
