@@ -15,3 +15,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Tree | [Code](0543-diameter-of-binary-tree/diameter-of-binary-tree.js) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | Array | [Code](0414-third-maximum-number/third-maximum-number.py) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | Array | [Code](0349-intersection-of-two-arrays/intersection-of-two-arrays.js) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array | [Code](0283-move-zeroes/move-zeroes.js) |
