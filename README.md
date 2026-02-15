@@ -35,3 +35,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](0066-plus-one/plus-one.ts) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | [Code](0049-group-anagrams/group-anagrams.js) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array | [Code](0035-search-insert-position/search-insert-position.js) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array | [Code](0027-remove-element/remove-element.js) |
