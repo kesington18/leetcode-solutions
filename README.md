@@ -32,3 +32,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree | [Code](0100-same-tree/same-tree.js) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Stack | [Code](0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.ts) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array | [Code](0088-merge-sorted-array/merge-sorted-array.py) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](0066-plus-one/plus-one.ts) |
