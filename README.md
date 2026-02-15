@@ -10,3 +10,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | Easy |  | [Code](2665-counter-ii/counter-ii.js) |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | Easy |  | [Code](2635-apply-transform-over-each-element-in-array/apply-transform-over-each-element-in-array.js) |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | Easy |  | [Code](2634-filter-elements-from-array/filter-elements-from-array.js) |
+| 2620 | [Counter](https://leetcode.com/problems/counter/) | Easy |  | [Code](2620-counter/counter.js) |
