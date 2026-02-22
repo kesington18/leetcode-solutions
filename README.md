@@ -38,3 +38,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array | [Code](0027-remove-element/remove-element.js) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](0001-two-sum/two-sum.js) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Array | [Code](0496-next-greater-element-i/next-greater-element-i.py) |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | Array | [Code](0303-range-sum-query-immutable/range-sum-query-immutable.py) |
