@@ -44,3 +44,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | [Code](0344-reverse-string/reverse-string.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array | [Code](0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | Array | [Code](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.py) |
+| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | Array | [Code](0705-design-hashset/design-hashset.py) |
