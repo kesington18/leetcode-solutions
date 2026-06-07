@@ -42,3 +42,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array | [Code](0121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Array | [Code](0167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | [Code](0344-reverse-string/reverse-string.py) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array | [Code](0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
