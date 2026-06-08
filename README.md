@@ -48,3 +48,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | Array | [Code](0706-design-hashmap/design-hashmap.py) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Array | [Code](0682-baseball-game/baseball-game.py) |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy | Array | [Code](2108-find-first-palindromic-string-in-the-array/find-first-palindromic-string-in-the-array.py) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String | [Code](0020-valid-parentheses/valid-parentheses.py) |
