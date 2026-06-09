@@ -50,3 +50,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy | Array | [Code](2108-find-first-palindromic-string-in-the-array/find-first-palindromic-string-in-the-array.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String | [Code](0020-valid-parentheses/valid-parentheses.py) |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | Stack | [Code](0225-implement-stack-using-queues/implement-stack-using-queues.py) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack | [Code](0232-implement-queue-using-stacks/implement-queue-using-stacks.py) |
