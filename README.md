@@ -53,3 +53,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack | [Code](0232-implement-queue-using-stacks/implement-queue-using-stacks.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Array | [Code](0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | [Code](0009-palindrome-number/palindrome-number.py) |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | Array | [Code](0041-first-missing-positive/first-missing-positive.py) |
