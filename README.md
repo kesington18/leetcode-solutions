@@ -54,3 +54,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Array | [Code](0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | [Code](0009-palindrome-number/palindrome-number.py) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | Array | [Code](0041-first-missing-positive/first-missing-positive.py) |
+| 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Medium | String | [Code](3612-process-string-with-special-operations-i/process-string-with-special-operations-i.py) |
