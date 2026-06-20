@@ -34,7 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array | [Code](0088-merge-sorted-array/merge-sorted-array.py) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](0066-plus-one/plus-one.ts) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | [Code](0049-group-anagrams/group-anagrams.js) |
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array | [Code](0035-search-insert-position/search-insert-position.js) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array | [Code](0035-search-insert-position/search-insert-position.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array | [Code](0027-remove-element/remove-element.js) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](0001-two-sum/two-sum.js) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Array | [Code](0496-next-greater-element-i/next-greater-element-i.py) |
