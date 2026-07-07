@@ -55,3 +55,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | [Code](0009-palindrome-number/palindrome-number.py) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | Array | [Code](0041-first-missing-positive/first-missing-positive.py) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Medium | String | [Code](3612-process-string-with-special-operations-i/process-string-with-special-operations-i.py) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | Linked List | [Code](0083-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py) |
