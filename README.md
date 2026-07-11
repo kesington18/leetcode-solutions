@@ -58,3 +58,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | Linked List | [Code](0083-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | Linked List | [Code](0234-palindrome-linked-list/palindrome-linked-list.py) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | Linked List | [Code](1290-convert-binary-number-in-a-linked-list-to-integer/convert-binary-number-in-a-linked-list-to-integer.py) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [Code](0021-merge-two-sorted-lists/merge-two-sorted-lists.py) |
