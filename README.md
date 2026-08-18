@@ -61,3 +61,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [Code](0021-merge-two-sorted-lists/merge-two-sorted-lists.py) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Hash Table | [Code](0141-linked-list-cycle/linked-list-cycle.py) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | Array | [Code](3731-find-missing-elements/find-missing-elements.py) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array | [Code](0015-3sum/3sum.py) |
