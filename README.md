@@ -63,3 +63,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | Array | [Code](3731-find-missing-elements/find-missing-elements.py) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array | [Code](0015-3sum/3sum.py) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | Array | [Code](3069-distribute-elements-into-two-arrays-i/distribute-elements-into-two-arrays-i.py) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | Math | [Code](3622-check-divisibility-by-digit-sum-and-product/check-divisibility-by-digit-sum-and-product.py) |
