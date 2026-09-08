@@ -66,3 +66,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | Math | [Code](3622-check-divisibility-by-digit-sum-and-product/check-divisibility-by-digit-sum-and-product.py) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | Array | [Code](0018-4sum/4sum.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array | [Code](0189-rotate-array/rotate-array.py) |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Tree | [Code](0938-range-sum-of-bst/range-sum-of-bst.py) |
