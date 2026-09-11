@@ -68,3 +68,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array | [Code](0189-rotate-array/rotate-array.py) |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Tree | [Code](0938-range-sum-of-bst/range-sum-of-bst.py) |
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | Medium | Hash Table | [Code](3121-count-the-number-of-special-characters-ii/count-the-number-of-special-characters-ii.py) |
+| 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Medium | Two Pointers | [Code](2486-append-characters-to-string-to-make-subsequence/append-characters-to-string-to-make-subsequence.py) |
